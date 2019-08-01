@@ -1,0 +1,2 @@
+sudo iptables -P INPUT DROP
+sudo iptables -A OUTPUT -d 10.0.0.0/8 -j ACCEPT

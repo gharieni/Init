@@ -1,0 +1,2 @@
+echo "/etc/debian_version"
+# la version installer se trouve dans /etc/debian_version

@@ -1,0 +1,2 @@
+echo "le type de Serveur DHCP"
+#nslookup 10.51.1.253

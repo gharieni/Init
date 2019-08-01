@@ -1,0 +1,2 @@
+echo "le fichier id_rsa contient les cles RSA "
+echo "~/.ssh/id_rsa"

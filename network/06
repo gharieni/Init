@@ -1,0 +1,4 @@
+# etc/resolv.conf contient l’adresse IP du serveur DNS
+#etc est le lien symbolique vers -> /var/run/resolv.conf
+#le chemain complet est /var/run/resolv.conf
+less /var/run/resolv.conf

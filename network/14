@@ -1,0 +1,2 @@
+# dig +short -x 10.51.1.6
+echo "ldap"

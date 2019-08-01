@@ -1,0 +1,10 @@
+ping -c 1 10.2.5.1 &>/dev/null
+if [[ $? == 0 ]]; then
+        echo 'reachable'
+elif [[ $? == 2 ]]; then
+        echo 'not reachable'
+else
+        echo 'other error'
+fi
+
+#source :  https://www.acmesystems.it/ip_discovering

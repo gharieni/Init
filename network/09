@@ -1,0 +1,4 @@
+# nslookup 42.fr 8.8.8.8
+#ou avec dig +short 42.fr
+echo 163.172.250.11
+echo 163.172.250.12

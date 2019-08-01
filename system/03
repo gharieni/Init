@@ -1,0 +1,2 @@
+# modifier le fichier /etc/hostname
+cat /etc/hostname
